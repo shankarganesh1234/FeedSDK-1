@@ -2,7 +2,7 @@
 
 Feed SDK
 ==========
-Java SDK for downloading and filtering item feed files
+Java SDK for downloading and filtering item feed files...
 
 
 Table of contents
